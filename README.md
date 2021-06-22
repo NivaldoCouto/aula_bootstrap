@@ -10,6 +10,7 @@
 -  :computer: facebook.com/nivaldo.couto/
 -  :computer: instagram.com/nivaldo_couto/
 -  :computer: Discord.com/Nivaldo Couto#4374
+-  :computer:
 
 
 <!---
